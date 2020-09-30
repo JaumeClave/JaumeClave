@@ -6,16 +6,9 @@
   <b>23 year old programmer</b> from <b>Barcelona</b>. Lived in <b>Canada</b>. Living in <b>London</b> 🇪🇸 🇨🇦 🇬🇧</br>
 </p>
 
-<p>I am currently serving my full-time National Service in the Singapore Armed Forces (SAF) as a Cyber Specialist Cadet. I plan to pursue a 
-degree in Computer Science after my service with the SAF. I'm passionate about Python programming, data science, machine learning and automation. You can 
-learn more about me and explore my work on my [personal website](https://jaumeclave.github.io./). I'm always learning, always sharing and always challenging myself!</p> 
+I have recently graduate from my MSc Business Analytics degree from Imperial College Business School where I developed my statistical, operations research and machine learning techniques needed to obtain actionable business inight and solve business problems with data. My current work as a Data Scientist in the FinTech and Oil & Energy SaaS industries has allowed me to explore how DS and ML methodologies can be leveraged to add significant business value by analyzing, mining and exploiting available information. I'm passionate about Python programming, data science, machine learning and automation. You can learn more about me and explore my work on my [personal website](https://jaumeclave.github.io./). I'm always learning, always sharing and always challenging myself!
 
 
-
-
-
-
-### Hi there 👋
 
 <!--
 **JaumeClave/JaumeClave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
