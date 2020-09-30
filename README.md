@@ -22,9 +22,9 @@
 <a href="https://github.com/JaumeClave" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
 <a href="mailto:j.clavedomenech@gmail.com" target="_blank">
-<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18" hspace="20"></a>
+<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a>
 <a href="https://jaumeclave.github.io./" target="_blank">
-<img alt="GitHub" src="https://img.icons8.com/wired/2x/domain.png" height="17"></a></p>
+<img alt="GitHub" src="https://img.icons8.com/wired/2x/domain.png" height="17" hspace="30"></a></p>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
