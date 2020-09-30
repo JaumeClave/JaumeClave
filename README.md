@@ -46,11 +46,14 @@
 <img align="left" alt="Jupyter" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></p>  
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></p> 
+</br>
 
-### 📕 Latest Blog Posts
+### Latest Projects:
 - [A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector](https://jaumeclave.github.io./#yolov4-custom-object-detector)
 - [Computer Vision Deepfakes (First Order Model Method): Face Synthesis With GANs and Autoencoders](https://jaumeclave.github.io./#deepfakes-first-order-model)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Using Spotipy, K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library](https://jaumeclave.github.io./#spotify-music-analysis)
+- [Winning a Tesla (Hopefully!) With Selenium Automation and Optical Character Recognition](https://jaumeclave.github.io./#ocr-selenium-automation)
+- [Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Reviews](https://jaumeclave.github.io./#natural-langauge-processing-of-app-reviews)
+
+
