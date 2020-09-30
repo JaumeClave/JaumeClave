@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there! My name is Jaume 👋 </h2>
+<h2 align='center'> Hi there! My name is Jaume 💡 </h2>
 
 <p align='center'>
   <b>Data Scientist</b> in the <b>Oil & Energy SaaS industry for Aucerna</b> 👨‍💻 </br>
@@ -13,5 +13,5 @@
 <h3 align='center'> Send me a hello! 📫 </h3>
 
 <p align='center'>
-  You can reach me at <a href="mailto:j.clavedomenech@gmail.com">j.clavedomenech@gmail.com</a> 💌 
+  You can reach me at <a href="mailto:j.clavedomenech@gmail.com">j.clavedomenech@gmail.com</a> 📧 
 </p>
