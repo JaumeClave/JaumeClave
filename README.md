@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there! My name is Jaume 💡 </h2>
 
 <p align='center'>
-  <b>Data Scientist</b> in the <b>Oil & Energy SaaS industry for Aucerna</b> 👨‍💻 </br>
+  <b>Data Scientist</b> in the <b>Oil & Energy SaaS industry</b> for <b>Aucerna</b> 👨‍💻 </br>
   <b>MSc Business Analytics Graduate</b> from <b>Imperial College Business School</b> 📚 </br>
   <b>23 year old engineer and programmer</b> from <b>Barcelona</b>. Lived in <b>Canada</b>. Living in <b>London</b> 🇪🇸 🇨🇦 🇬🇧</br>
 </p>
@@ -10,8 +10,24 @@
 
 <p align="justify">TL;DR: I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking! 🔎 📈  </p>
 
-<h3 align='center'> Send me a hello! 📫 </h3>
+<h3 align='center'> Send Me a Hello! 📫 </h3>
 
 <p align='center'>
   You can reach me at <a href="mailto:j.clavedomenech@gmail.com">j.clavedomenech@gmail.com</a> 📧 
 </p>
+
+### Connect With Me:
+<p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
+<a href="https://github.com/JaumeClave" target="_blank">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
+<a href="mailto:j.clavedomenech@gmail.com" target="_blank">
+<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a></p>
+
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
