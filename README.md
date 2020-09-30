@@ -7,9 +7,8 @@
 </p>
 
 <p>I am currently serving my full-time National Service in the Singapore Armed Forces (SAF) as a Cyber Specialist Cadet. I plan to pursue a 
-degree in Computer Science after my service with the SAF. I'm passionate about Python programming, web development and cybersecurity. You can 
-learn more about me from my [personal website](https://zeyu2001.pythonanywhere.com). I'm always learning, and always sharing - you can find my writings on 
-[Medium](https://medium.com/@zhangzeyu2001) and [DEV.to](https://dev.to/zeyu2001). 
+degree in Computer Science after my service with the SAF. I'm passionate about Python programming, data science, machine learning and automation. You can 
+learn more about me and explore my work on my [personal website](https://jaumeclave.github.io./). I'm always learning, always sharing and always challenging myself!<\p> 
 
 
 
