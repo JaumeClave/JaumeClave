@@ -16,8 +16,16 @@
   You can reach me at <a href="mailto:j.clavedomenech@gmail.com">j.clavedomenech@gmail.com</a> 📧 
 </p>
 
-### Connect With Me:
-<p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
+
+<h3 align = 'center'>Latest Projects:</h3>
+<p align = 'center'><a href="https://jaumeclave.github.io./#deepfakes-first-order-model" target="_blank">Computer Vision Deepfakes (First Order Model Method): Face Synthesis With GANs and Autoencoders</a></br>
+<a href="https://jaumeclave.github.io./#yolov4-custom-object-detector" target="_blank">A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</a></br>
+<a href="https://jaumeclave.github.io./#spotify-music-analysis" target="_blank">Using Spotipy, K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library</a></br>
+<a href="https://jaumeclave.github.io./#ocr-selenium-automation" target="_blank">Winning a Tesla (Hopefully!) With Selenium Automation and Optical Character Recognition</a></br>
+<a href="https://jaumeclave.github.io./#natural-langauge-processing-of-app-reviews" target="_blank">Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Reviews</a></br>
+
+<h3 align = 'center'>Connect With Me:</h3>
+<p align = 'center'><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
@@ -26,34 +34,25 @@
 <a href="https://jaumeclave.github.io./" target="_blank">
 <img alt="GitHub" src="https://img.icons8.com/wired/2x/domain.png" height="17" hspace="30"></a></p>
 
-### Languages and Tools:
-<p><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Plotly" width="26px" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<h3 align = 'center'>Languages and Tools:</h3>
+<p align = 'center'><img align="center" alt="Python" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="center" alt="Plotly" width="33px" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" />
+<img align="center" alt="Scikit-Learn" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="center" alt="Tensorflow" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Tidyverse" width="26px" src="https://avatars1.githubusercontent.com/u/22032646?s=200&v=4" />
+<img align="center" alt="R" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="center" alt="Tidyverse" width="33px" src="https://avatars1.githubusercontent.com/u/22032646?s=200&v=4" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="center" alt="SQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="center" alt="MySQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="center" alt="PostgreSQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<img align="left" alt="PowerBI" width="26px" src="https://avatars0.githubusercontent.com/u/9753375?s=200&v=4" />
-<img align="left" alt="DAX" width="26px" src="https://avatars0.githubusercontent.com/u/11537745?s=200&v=4" />
+<img align="center" alt="PowerBI" width="33px" src="https://avatars0.githubusercontent.com/u/9753375?s=200&v=4" />
+<img align="center" alt="DAX" width="33px" src="https://avatars0.githubusercontent.com/u/11537745?s=200&v=4" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></p> 
+<img align="center" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Jupyter" width="33px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
+<img align="center" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></p> 
 </br>
-
-### Latest Projects:
-- [A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector](https://jaumeclave.github.io./#yolov4-custom-object-detector)
-- [Computer Vision Deepfakes (First Order Model Method): Face Synthesis With GANs and Autoencoders](https://jaumeclave.github.io./#deepfakes-first-order-model)
-- [Using Spotipy, K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library](https://jaumeclave.github.io./#spotify-music-analysis)
-- [Winning a Tesla (Hopefully!) With Selenium Automation and Optical Character Recognition](https://jaumeclave.github.io./#ocr-selenium-automation)
-- [Natural Language Processing, Co-Occurance and Sentiment Analysis of App Store Reviews](https://jaumeclave.github.io./#natural-langauge-processing-of-app-reviews)
-
-
