@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there! My name is Jaume 💡 </h2>
+<h2 align='center'> Hi there! My name is Jaume </h2>
 
 <p align='center'>
   <b>Data Scientist</b> in the <b>Oil & Energy SaaS industry</b> for <b>Aucerna</b> 👨‍💻 </br>
