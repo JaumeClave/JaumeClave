@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there! My name is Jaume </h2>
 
 <p align='center'>
-  <b>Data Scientist</b> in the <b>Oil & Energy SaaS industry</b> for <b>Aucerna</b> 👨‍💻 </br>
+  <b>Data Scientist</b> in the <b>Media SaaS industry</b> for <b>Echobox</b> 👨‍💻 </br>
   <b>MSc Business Analytics Graduate</b> from <b>Imperial College Business School</b> 📚 </br>
   <b>23 year old engineer and programmer</b> from <b>Barcelona</b>. Lived in <b>Canada</b>. Living in <b>London</b> 🇪🇸 🇨🇦 🇬🇧</br>
 </p>
