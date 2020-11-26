@@ -8,7 +8,7 @@
 
 <p align="justify">I've recently graduated from my MSc Business Analytics degree from Imperial College Business School where I developed my statistical, operations research and machine learning techniques needed to obtain actionable business inight and solve business problems with data. My current work as a Data Scientist in the FinTech and Oil & Energy SaaS industries has allowed me to explore how DS and ML methodologies can be leveraged to add significant business value by analyzing, mining and exploiting available information. I'm passionate about Python programming, data science, machine learning and automation. You can learn more about me and explore my work on my <a href="https://jaumeclave.github.io./" target="_blank"> personal website</a>. I'm always learning, always sharing and always challenging myself!</p>
 
-<p align="justify">TL;DR: I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking! 🔎 📈  </p>
+<p align="justify"><b>TL;DR:</b> I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking! 🔎 📈  </p>
 
 <h3 align='center'> Send Me a Hello! 📫 </h3>
 
