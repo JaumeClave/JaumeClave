@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there! My name is Jaume </h2>
 
 <p align='center'>
-  <b>Data Scientist</b> in the <b>Ecommerce industry</b> for the<b>LEGO Group</b> 👨‍💻 </br>
+  <b>Data Scientist</b> in the <b>Ecommerce industry</b> for the<b> LEGO Group</b> 👨‍💻 </br>
   <b>MSc Business Analytics Graduate</b> from <b>Imperial College Business School</b> 📚 </br>
   <b>24 year old engineer and programmer</b> from <b>Barcelona</b>. Lived in <b>Canada</b>. Living in <b>London</b> 🇪🇸 🇨🇦 🇬🇧</br>
 </p>
